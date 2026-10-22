@@ -1,9 +1,16 @@
-AI LLM CHANGE AND IMPLEMENTATION LOG:
-
+- - - - - - - - - - - - - - - - - - - 
+AI LLM CHANGE AND IMPLEMENTATION LOG: 
+- - - - - - - - - - - - - - - - - - - 
     On each CHANGE:
-        -Change date.
+        -Starting with an ARROW like this (===>)
+        -CHANGE date.
         -Modified feature/component.
-        -Brief change description.
+        -Brief CHANGE description.
         -Test notes.
-        -Contributors.
+        -Contributors. 
+
+- - - - - - 
+CHANGE LOG:
+- - - - - - 
+
 
